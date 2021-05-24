@@ -1,11 +1,5 @@
 ## 关于我 ##
 
-----------
-
-<img src="https://www.ussjackdaw.com/usr/uploads/2020/08/3358277886.png" width="150" height="150" style="border-radius: 50%;" data-original="https://www.ussjackdaw.com/usr/uploads/2020/08/3358277886.png">
-
-----------
-
  - **WDRshadow**来源于WindyRain和Shadow的组合词。
 
 > **WindyRain**简称WDR是红色警戒3的一个战队；由于历史悠久，已不为玩家所熟知。
