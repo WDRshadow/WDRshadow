@@ -2,7 +2,7 @@
 
 ----------
 
-<img src="./avatar.png" width="150" height="150" style="border-radius: 50%;" data-original="./avatar.png">
+<img src="avatar.png" width="150" height="150" style="border-radius: 50%;" data-original="avatar.png">
 
 ----------
 
