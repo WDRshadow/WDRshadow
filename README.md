@@ -2,10 +2,6 @@
 
 ----------
 
-<img src="avatar.png" width="150" height="150" style="border-radius: 50%;" data-original="avatar.png">
-
-----------
-
  - **WDRshadow**来源于WindyRain和Shadow的组合词。
 
 > **WindyRain**简称WDR是红色警戒3的一个战队；由于历史悠久，已不为玩家所熟知。
