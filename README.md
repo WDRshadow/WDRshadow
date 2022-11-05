@@ -42,4 +42,4 @@
  - Github：https://github.com/WDRshadow
 
 
-  [1]: https://github.com/WDRshadow/WDRshadow/README_EN.md
+  [1]: https://github.com/WDRshadow/WDRshadow/blob/main/README_EN.md
