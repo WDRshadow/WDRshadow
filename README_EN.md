@@ -48,22 +48,22 @@
  1. April 2023 - present
 **High Speed Cleaning System Characterisation and Simulation**, Plasma Track & UOE, Laboratory Assistant
 
- 1. Sept 2022 - May 2023
+ 2. Sept 2022 - May 2023
 **Modelling and Analysis of Driver Behaviour Using Modelica**, UOE, BEng Individual Project
 
- 2. Jun 2022 - May 2023
+ 3. Jun 2022 - May 2023
 **Floating Wind Challenge**, OffshoreWind4Kids, A European competition
 
- 3. Sept - Nov 2022
+ 4. Sept - Nov 2022
 **Heating loss modelling for Edinburgh old flat**, UOE, BEng Group Project
 
- 4. Jan - May 2022
+ 5. Jan - May 2022
 **Horizontal-axis wind turbine group project**, UOE, Course design project
 
- 5. April 2021 - March 2022
+ 6. April 2021 - March 2022
 **Study of the fine-scale mechanism of fluid flow transition and resistance within oriented fibrous materials**, SCUT, Student research project
 
- 6. Oct - Dec 2020
+ 7. Oct - Dec 2020
 **Wireless remote control car design project**, SCUT, Mechanical Structure Design Competition
 
 ##Programming Project##
