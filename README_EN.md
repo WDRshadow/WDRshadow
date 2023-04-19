@@ -14,13 +14,12 @@
  - Very poor sleeper at night, relying on arcane magic blades to sleep for several years.
  - Often anxious about studying.
  - Undergraduate minor in computer science, now finally learning to code in a somewhat formal way.
- - Master's degree in Computer Simulation, majoring in mathematical and physical modeling, autopilot/shared control algorithms.
 
 ----------
 
 ## Education Background ##
 
- - **2023 - present** BEng in Mechanical Engineering, The University of Edinburgh
+ - **2023 - present** MSc in Computer Simulations for Science and Engineering, KTH & TU Delft
 
  - **2021 - 2023** BEng in Mechanical Engineering, The University of Edinburgh
 
