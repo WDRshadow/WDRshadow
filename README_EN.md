@@ -9,17 +9,20 @@
 > **WindyRain** is a team of Red Alert 3. Due to its long history, it is not well known to players.
 > **Shadow** from the shadow guild of Minecraft, I used to use the name Shadow_Xall, with the goal of joining the new server to capture the dragon egg in a short time.
 
- - The knowledge of coding from self-study.
- - I had a colorful and black childhood.
- - My quality of sleep at night is extremely poor, and I have been relying on ASMR to sleep for several years.
- - Often worry about studying.
- - With a minor in computer, now I finally have a bit of a formal learning way for coding.
+ - I am purely self-taught in coding and still don't know anything.
+ - Had a colourful, black childhood.
+ - Very poor sleeper at night, relying on arcane magic blades to sleep for several years.
+ - Often anxious about studying.
+ - Undergraduate minor in computer science, now finally learning to code in a somewhat formal way.
+ - Master's degree in Computer Simulation, majoring in mathematical and physical modeling, autopilot/shared control algorithms.
 
 ----------
 
 ## Education Background ##
 
- - **2021 - present** BEng in Mechanical Engineering, The University of Edinburgh
+ - **2023 - present** BEng in Mechanical Engineering, The University of Edinburgh
+
+ - **2021 - 2023** BEng in Mechanical Engineering, The University of Edinburgh
 
  - **2019 - 2021** BEng in Mechanical Engineering, minor in Computer Science, South China University of Technology
 
@@ -30,10 +33,9 @@
 
  - **Skill** Mathematical and physical modelling, Programming
 
- - **Design Software** OpenModelica, SolidWorks, MATLAB, Simulink, Abaqus, JetBrains.
+ - **Design Software** OpenModelica, SolidWorks, MATLAB, Simulink, JetBrains.
 
  - **Programmation**  **Python(Regular use)**, Modelica(Engineering modelling), Java(Plug-in only), C++
-
 
  - **OS** MacOS, Windows, Ubuntu
 
@@ -44,10 +46,13 @@
 
 ##Engineering Projects ##
 
- 1. Sept 2022 - Ongoing 
-**Driver behavior modelling for autopilot**, UOE, BEng Individual Project
+ 1. April 2023 - present
+**High Speed Cleaning System Characterisation and Simulation**, Plasma Track & UOE, Laboratory Assistant
 
- 2. Jun 2022 - Ongoing 
+ 1. Sept 2022 - May 2023
+**Modelling and Analysis of Driver Behaviour Using Modelica**, UOE, BEng Individual Project
+
+ 2. Jun 2022 - May 2023
 **Floating Wind Challenge**, OffshoreWind4Kids, A European competition
 
  3. Sept - Nov 2022
