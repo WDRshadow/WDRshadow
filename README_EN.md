@@ -19,7 +19,7 @@
 
 ## Education Background ##
 
- - **2023 - present** MSc in Computer Simulations for Science and Engineering, KTH & TU Delft
+ - **2023 - present** MSc in Computer Simulations for Science and Engineering, TU Berlin and KTH
 
  - **2021 - 2023** BEng in Mechanical Engineering, The University of Edinburgh
 
