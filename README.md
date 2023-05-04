@@ -9,7 +9,7 @@
 > **WindyRain**简称WDR是红色警戒3的一个战队；由于历史悠久，已不为玩家所熟知。
 > **Shadow**源自Minecraft的暗影公会，我曾用名为Shadow_Xall，以加入新服短时间夺取龙蛋为目标。
 
- - 本科大一大二在华南理工大学就读，大三大四在爱丁堡大学就读，即将前往德国TU BErlin和瑞典KTH读硕士。
+ - 本科华南理工大学和爱丁堡大学就读，即将前往德国TU BErlin和瑞典KTH读硕士。
  - 敲代码纯属自学，现在还什么都不会，请多多请教。
  - 轻度抑郁，一般以笑容待人，自己一人的时候会被黑暗笼罩。
  - 拥有五彩斑斓的黑色的童年。
@@ -39,7 +39,8 @@
 
 ## 联系方式 ##
 
- - 邮箱：i@wdr.im 或者 wdrshadow@jackdaw.team
+ - 团队邮箱：wdrshadow@jackdaw.team
+ - 学术邮箱：Yunhao.Xu@ed.ac.uk
  - Github：https://github.com/WDRshadow
 
 
