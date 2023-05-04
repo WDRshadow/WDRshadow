@@ -46,7 +46,7 @@
 ##Engineering Projects ##
 
  1. April 2023 - present
-**High Speed Cleaning System Characterisation and Simulation**, Plasma Track & UOE, Laboratory Assistant
+**System Simulation Internship**, Plasma Track & UOE, Laboratory Assistant
 
  2. Sept 2022 - May 2023
 **Modelling and Analysis of Driver Behaviour Using Modelica**, UOE, BEng Individual Project
@@ -105,7 +105,8 @@ Essential-PlayerInfo - A Minecraft plug-in of velocity proxy for data transfer v
 ## Contact ##
 
  - Personal Email：wdrshadow@gmail.com
- - Academic Email: y.xu-143@sms.ed.ac.uk
+ - Team Email: wdrshadow@jackdaw.team
+ - Academic Email: Yunhao.Xu@ed.ac.uk
  - LinkedIn: http://linkedin.com/in/yunhao-xu
  - Github：https://github.com/WDRshadow
 
