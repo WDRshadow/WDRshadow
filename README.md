@@ -42,30 +42,6 @@
 
  - **Language** English, Cantonese, Mandarin
 
-
-##Engineering Projects ##
-
- 1. April 2023 - present
-**System Simulation Internship**, Plasma Track & UOE, Laboratory Assistant
-
- 2. Sept 2022 - May 2023
-**Modelling and Analysis of Driver Behaviour Using Modelica**, UOE, BEng Individual Project
-
- 3. Jun 2022 - May 2023
-**Floating Wind Challenge**, OffshoreWind4Kids, A European competition
-
- 4. Sept - Nov 2022
-**Heating loss modelling for Edinburgh old flat**, UOE, BEng Group Project
-
- 5. Jan - May 2022
-**Horizontal-axis wind turbine group project**, UOE, Course design project
-
- 6. April 2021 - March 2022
-**Study of the fine-scale mechanism of fluid flow transition and resistance within oriented fibrous materials**, SCUT, Student research project
-
- 7. Oct - Dec 2020
-**Wireless remote control car design project**, SCUT, Mechanical Structure Design Competition
-
 ##Programming Project##
 
  1. [**Team-Jackdaw Official Website**][2] - 2022
@@ -73,26 +49,6 @@ Built a website for SCUT Minecraft Association, using Django+PostgreSQL to build
 
  2. [**Essential-PlayerInfo**][3] - 2021 - 2022
 Essential-PlayerInfo - A Minecraft plug-in of velocity proxy for data transfer via multi-server. Have been installed on many servers.
-
-
-
-## Award ##
-
- - **2021 - 2023** Entrance Scholarship, the University of Edinburgh.
-
-## Outreach and Volunteering ##
-
- - **2022/23** Member of UoE Engineering for Change, a funded society for dealing with engineering problems.
-
- - **Oct 2021** Participated in COP26 Climate Change Science Workshop.
-
- - **March 2021** Volunteer captain of college admissions Team, SCUT.
-
- - **2020/21** Actor in SCUT Anime Association, participated in several stage dramas.
-
- - **2019/20** Student leader in 2019th Mechanical Engineering Class, SCUT.
-
- - **2019/20** Editor in SCUT Weibo Association, have a year of advertisement writing experience.
 
 ## Interests ##
 
