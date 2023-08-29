@@ -1,6 +1,6 @@
 ## Yunhao XU - Resume ##
 
-**[中文版][1]**
+**[Chinese Version][1]**
 
 ----------
 
