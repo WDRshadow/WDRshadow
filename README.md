@@ -111,6 +111,6 @@ Essential-PlayerInfo - A Minecraft plug-in of velocity proxy for data transfer v
  - Github：https://github.com/WDRshadow
 
 
-  [1]: https://github.com/WDRshadow/README_CN.md
+  [1]: https://github.com/WDRshadow/WDRshadow/blob/main/README_CN.md
   [2]: http://mc.ussjackdaw.com
   [3]: https://www.github.com/Team-Jackdaw/Essential-PlayerInfo
