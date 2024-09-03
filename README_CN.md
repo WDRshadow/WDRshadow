@@ -39,9 +39,8 @@
 ## 联系方式 ##
 
  - 个人邮箱：i@wdr.im
- - 学术邮箱：yunhao.xu@campus.tu-berlin.de
+ - 学术邮箱：yunhaox@kth.se & yunhao.xu@campus.tu-berlin.de
  - 团队邮箱：wdrshadow@jackdaw.team
- - 团队网站: [Jackdaw Team](https://mc.ussjackdaw.com)
  - LinkedIn: [XU, Yunhao](http://linkedin.com/in/yunhao-xu)
 
 
