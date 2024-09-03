@@ -31,17 +31,17 @@
 
 ## Skill ##
 
- - **Skill** Mathematical and physical modelling, Programming, Mechanical engineering
+ - **Skill** Mathematical modelling, Computer Simulation, Programming, Applied Mechanics
 
- - **Design Software** OpenModelica, SolidWorks, MATLAB, Simulink, JetBrains.
+ - **Design Software** JetBrains IDE, VS Code ,OpenModelica, SolidWorks, MATLAB
 
- - **Programmation** Java, Python, Rust, Modelica, C++
+ - **Programmation** Python, Java, C++, Rust, Modelica
 
  - **OS** MacOS, Windows, Ubuntu
 
  - **Platform** LATEX, Microsoft Office, GitHub
 
- - **Language** English, Cantonese, Mandarin
+ - **Language** English, Cantonese, Mandarin, German (A1)
 
 ## Interests ##
 
@@ -54,9 +54,8 @@
 ## Contact ##
 
  - Personal Email：i@wdr.im
- - Academic Email: yunhao.xu@campus.tu-berlin.de
+ - Academic Email: yunhaox@kth.se & yunhao.xu@campus.tu-berlin.de
  - Team Email: wdrshadow@jackdaw.team
- - Team Website: [Jackdaw Team](https://mc.ussjackdaw.com)
  - LinkedIn: [XU, Yunhao](http://linkedin.com/in/yunhao-xu) 
 
 
