@@ -20,7 +20,11 @@
 
 ## Education Background ##
 
- - **2023 - present** MSc in Computer Simulations for Science and Engineering (COSSE), TU Berlin and KTH
+ - **2025 - present** Empolyed by a CFD company and working for developing linear solving system.
+
+ - **2024 - 2025** MSc in Computer Simulations for Science and Engineering, KTH
+
+ - **2023 - 2025** MSc in Scientific Computing, TU Berlin
 
  - **2021 - 2023** BEng in Mechanical Engineering, The University of Edinburgh
 
@@ -31,30 +35,21 @@
 
 ## Skill ##
 
- - **Skill** Mathematical modelling, Computer Simulation, Programming, Applied Mechanics
+ - **Skill** Applied Mathematic, Computer Simulation, Programming, Applied Mechanics
 
- - **Design Software** JetBrains IDE, VS Code ,OpenModelica, SolidWorks, MATLAB
+ - **Design Software** JetBrains IDE, VS Code, MATLAB
 
- - **Programmation** Python, Java, C++, Rust, Modelica
+ - **Programmation** CUDA/C++, Python, Java, Rust
 
  - **OS** MacOS, Windows, Ubuntu
 
- - **Platform** LATEX, Microsoft Office, GitHub
-
  - **Language** English, Cantonese, Mandarin, German (A1)
-
-## Interests ##
-
- - **Musical Instruments:** Erhu
-
- - **Sport:** Badminton and Table Tennis
 
 ----------
 
 ## Contact ##
 
  - Personal Email：i@wdr.im
- - Academic Email: yunhaox@kth.se & yunhao.xu@campus.tu-berlin.de
  - Team Email: wdrshadow@jackdaw.team
  - LinkedIn: [XU, Yunhao](http://linkedin.com/in/yunhao-xu) 
 
